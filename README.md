@@ -1,60 +1,43 @@
-````md
+```md
 <div align="center">
 
-# ⚡ SHAYAN AKHTAR ⚡
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Shayan%20Akhtar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20UI%2FUX%20Designer%20|%20Problem%20Solver&descAlignY=60&descSize=22"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+Developer;UI%2FUX+Designer;Data+Science+Learner;Full+Stack+Explorer;Problem+Solver+%F0%9F%9A%80" />
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=shayan0786&label=Profile+Views&color=0ea5e9&style=for-the-badge" />
+<br>
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=shayan0786&icon=5&color=6)](https://visitcount.itsvg.in)
 
 </div>
 
 ---
 
+# 👋 About Me
+
 <table>
 <tr>
 <td width="55%">
 
-## 💫 About Me
+<br>
 
-```java
-class ShayanAkhtar {
-
-    String role = "B.Tech CSE Student";
-    
-    String[] skills = {
-        "Java",
-        "Python",
-        "UI/UX",
-        "Frontend",
-        "DSA"
-    };
-
-    String passion = "Building clean & modern software";
-
-    String currentFocus =
-        "Java Swing + Full Stack + Data Science";
-
-    String mindset =
-        "Code. Break. Learn. Repeat.";
-}
-````
-
-### 🚀 Currently Exploring
-
-* ⚡ Advanced Java & Swing UI
-* 🎨 Modern UI/UX Design
-* 📊 Data Science with Python
-* 🌐 Frontend Development
-* 🧠 DSA & Problem Solving
-* 🚆 Real-world Project Building
+- 🎓 B.Tech CSE Student at Lovely Professional University  
+- 💻 Passionate Java Developer & Problem Solver  
+- ⚡ Building Modern Java Swing Applications  
+- 🎨 Exploring UI/UX Design & Frontend Development  
+- 📊 Learning Data Science, AI & Machine Learning  
+- 🚀 Interested in Full Stack Development & System Design  
+- 🧠 Strong understanding of OOPs, DSA & DBMS  
+- 🌱 Continuously improving coding & development skills  
+- 🔥 Love building real-world impactful projects  
 
 </td>
 
 <td width="45%">
 
-<img align="center" alt="Coding" width="100%"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 </td>
 </tr>
@@ -67,32 +50,69 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <div align="center">
 
 <a href="https://github.com/shayan0786">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="55"/>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# ⚒️ Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,react,mysql,git,github,vscode,idea,figma&perline=7" />
+### 👨‍💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
+
+<br><br>
+
+### 🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+
+<br><br>
+
+### 🛠️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
+
+<br><br>
+
+### 🎨 UI/UX & Design
+<img src="https://skillicons.dev/icons?i=figma,photoshop" />
+
+<br><br>
+
+### ⚙️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 
 </div>
+
+---
+
+# 🚀 Featured Projects
+
+| 💻 Project | 🚀 Description |
+|------------|----------------|
+| 🧾 Java Swing Billing System | Professional billing & invoice application with modern UI |
+| 🚆 IRCTC UI/UX Case Study | Complete UX redesign with heuristic evaluation & design system |
+| 📊 Data Science Projects | Python data analysis, visualization & ML basics |
+| 🌐 Frontend Projects | Responsive websites & modern UI interfaces |
+| 🤖 AI & Automation Experiments | Exploring AI tools, workflows & smart systems |
 
 ---
 
@@ -100,13 +120,13 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shayan0786&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shayan0786&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shayan0786&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shayan0786&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -116,16 +136,15 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-# 🚀 Featured Projects
+# 🧠 Currently Learning
 
 <div align="center">
 
-| 💻 Project                   | 🚀 Description                                            |
-| ---------------------------- | --------------------------------------------------------- |
-| 🧾 Java Swing Billing System | Professional invoice & billing application with modern UI |
-| 🚆 IRCTC UI/UX Case Study    | Full redesign with heuristic evaluation & design system   |
-| 📊 Data Science Projects     | Python analysis, ML basics & visualization                |
-| 🌐 Frontend Projects         | Responsive web interfaces & UI experiments                |
+✨ Full Stack Development  
+✨ Advanced Java & Swing UI  
+✨ System Design Concepts  
+✨ Machine Learning & AI  
+✨ Modern UI/UX Principles  
 
 </div>
 
@@ -133,11 +152,10 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <div align="center">
 
-## 🧠 Quote
-
-> *"Clean logic. Modern design. Endless curiosity."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+### ⚡ Code • Build • Learn • Repeat
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
 ```
