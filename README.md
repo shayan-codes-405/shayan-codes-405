@@ -108,7 +108,7 @@ Data cleanup processing layers and interactive analytics structures designed to 
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shayan0786&show_icons=true&theme=tokyonight&hide_border=false&border_color=38BDF8&title_color=38BDF8&count_private=true"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=shayan0786&theme=tokyonight/?user=shayan0786&theme=tokyonight&hide_border=false&border_color=38BDF8&stroke=38BDF8&fire=38BDF8"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=shayan0786&theme=tokyonight&hide_border=false&border_color=38BDF8&stroke=38BDF8&fire=38BDF8"/>
   <br><br>
   <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=shayan0786&bg_color=0d1117&color=38bdf8&line=38bdf8&point=facc15&area=true&hide_border=false&border_color=38BDF8"/>
 </div>
