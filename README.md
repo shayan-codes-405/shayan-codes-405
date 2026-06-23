@@ -130,7 +130,7 @@ Data cleanup processing layers and interactive analytics structures designed to 
 
 <br>
 
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-science.svg" height="25px"/>
-  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" height="25px"/>
-</div>
+<!-- <div align="center"> -->
+  <!-- <img src="https://forthebadge.com/images/badges/built-with-science.svg" height="25px"/> -->
+  <!-- <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" height="25px"/> -->
+<!-- </div> -->
