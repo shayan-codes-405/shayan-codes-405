@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/shayan0786?label=Followers&style=social"/>
   </a>
   &nbsp;
-  <img src="https://visitcount.itsvg.in/api?id=shayan0786&icon=5&color=6" alt="Views" />
+  <!-- <img src="https://visitcount.itsvg.in/api?id=shayan0786&icon=5&color=6" alt="Views" /> -->
 </div>
 
 <br>
