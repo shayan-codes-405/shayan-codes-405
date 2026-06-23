@@ -7,11 +7,11 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/shayan0786">
-    <img src="https://img.shields.io/github/followers/shayan0786?label=Followers&style=social"/>
+  <a href="https://github.com/shayan-codes-405.">
+    <img src="https://img.shields.io/github/followers/shayan-codes-405.?label=Followers&style=social"/>
   </a>
   &nbsp;
-  <!-- <img src="https://visitcount.itsvg.in/api?id=shayan0786&icon=5&color=6" alt="Views" /> -->
+  <!-- <img src="https://visitcount.itsvg.in/api?id=shayan-codes-405.&icon=5&color=6" alt="Views" /> -->
 </div>
 
 <br>
@@ -107,10 +107,10 @@ Data cleanup processing layers and interactive analytics structures designed to 
 ## 📊 Activity Metrics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shayan0786&show_icons=true&theme=tokyonight&hide_border=false&border_color=38BDF8&title_color=38BDF8&count_private=true"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=shayan0786&theme=tokyonight&hide_border=false&border_color=38BDF8&stroke=38BDF8&fire=38BDF8"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shayan-codes-405.&show_icons=true&theme=tokyonight&hide_border=false&border_color=38BDF8&title_color=38BDF8&count_private=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=shayan-codes-405.&theme=tokyonight&hide_border=false&border_color=38BDF8&stroke=38BDF8&fire=38BDF8"/>
   <br><br>
-  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=shayan0786&bg_color=0d1117&color=38bdf8&line=38bdf8&point=facc15&area=true&hide_border=false&border_color=38BDF8"/>
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=shayan-codes-405.&bg_color=0d1117&color=38bdf8&line=38bdf8&point=facc15&area=true&hide_border=false&border_color=38BDF8"/>
 </div>
 
 <br>
@@ -122,7 +122,7 @@ Data cleanup processing layers and interactive analytics structures designed to 
 
 <div align="center">
   <br>
-  <a href="https://github.com/shayan0786" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/shayan-codes-405." target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shayan-akhtar-492456393/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:shayanakhtar405@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/u/Shayan405/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
